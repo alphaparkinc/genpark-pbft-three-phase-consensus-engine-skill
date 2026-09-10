@@ -1,0 +1,17 @@
+{
+  "name": "genpark-pbft-three-phase-consensus-engine-skill",
+  "version": "1.0.0",
+  "description": "Practical Byzantine Fault Tolerance (PBFT) engine executing Pre-Prepare, Prepare, and Commit phases with 2f+1 quorum verification.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "pbft",
+    "byzantine-fault-tolerance",
+    "consensus",
+    "quorum-certificate",
+    "distributed-systems"
+  ],
+  "dependencies": []
+}
